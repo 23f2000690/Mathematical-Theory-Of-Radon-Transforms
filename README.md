@@ -3,7 +3,7 @@
 A rigorous mathematical monograph exploring the theory, structure, and analytical foundations of Radon Transforms, written with a focus on clarity, precision, and mathematical depth.
 
 This work aims to present the Radon Transform not merely as an applied tool in imaging and tomography, but as a rich mathematical object with deep connections to integral geometry, harmonic analysis, inverse problems, and partial differential equations.
-
+(IMPORTANT: See LICENSE file for usage and distribution permissions.)
 ---
 
 ## Author
